@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, This is Mohammad Jubair</h1>
-<h3 align="center">Hey This is Mohammad Jubair. I'm a passionate Full Stack Engineer with working as a 2 years. I have a Strong Knowledge about JavaScript, React JS, Node Js, Python, Dart, Flutter. I have also a Cross Platform App Developer with flutter. And I love Programming & Tech world.</h3>
+<h3 align="center">Hey✌️ ! This is Mohammad Jubair. As a passionate Web Developer, My goal is to collaborate with a talented team that values continuous learning and embraces cutting-edge technologies. I can utilize my technical skills, creativity, and passion for software development. With a strong foundation in the MERN stack and two years of professional experience,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubair-jx&label=Profile%20views&color=0e75b6&style=flat" alt="jubair-jx" /> </p>
 
