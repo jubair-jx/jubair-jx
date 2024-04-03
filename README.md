@@ -8,10 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/jubair6996" target="blank"><img src="https://img.shields.io/twitter/follow/jubair6996?logo=twitter&style=for-the-badge" alt="jubair6996" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development and Cross Platform App Development with Flutter**
+- 🌱 I’m currently learning **3D Web Motion Graphics and Cross Platform App Development with Flutter**
 
 - 👨‍💻 All of my projects are available at https://mohammad-jubair.netlify.app/
-- 💬 Ask me about **Web Development, App Development, JavaScript, React, Node, Express, Mongo DB.**
+- 💬 Ask me about **Web Development, App Development, JavaScript, TypeScript, React, Node, Express, MongoDB, ReactNative**
 
 - 📫 How to reach me **jubair.official97@gmail.com**
 
