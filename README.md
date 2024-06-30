@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **3D Web Motion Graphics and Cross Platform App Development with Flutter**
 
-- 👨‍💻 All of my projects are available at https://mohammad-jubair.netlify.app/
+- 👨‍💻 All of my projects are available at https://mohammad-jubair.vercel.app/
 - 💬 Ask me about **Web Development, App Development, JavaScript, TypeScript, React, Node, Express, MongoDB, ReactNative**
 
 - 📫 How to reach me **jubair.official97@gmail.com**
