@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi There 👋, This is Mohammad Jubair</h1>
-<h3 align="center">Hey✌️ ! This is Mohammad Jubair. a passionate and driven Full Stack Web Developer from Chattogram, Bangladesh. With over 2 years of hands-on experience in web development and software development, I specialize in building dynamic and responsive web applications using cutting-edge technologies.,</h3>
+<h3 align="center">Hey✌️ ! This is Mohammad Jubair. a passionate and driven Full Stack Developer from Chattogram, Bangladesh. With over two years of hands-on experience in web development and software development, I specialize in building dynamic and responsive web applications using cutting-edge technologies.</h3>
 
 
 ![About Me](https://github.com/jubair-jx/jubair-jx/blob/main/aboutme.gif)
