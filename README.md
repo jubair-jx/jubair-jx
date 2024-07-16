@@ -2,6 +2,12 @@
 <h1 align="center">Hi There 👋, This is Mohammad Jubair</h1>
 <h3 align="center">Hey✌️ ! This is Mohammad Jubair. As an enthusiastic Web Developer, My goal is to collaborate with a talented team that values continuous learning and embraces cutting-edge technologies. I can utilize my technical skills, creativity, and passion for software development. With a strong foundation in the MERN stack and two years of professional experience,</h3>
 
+
+![About Me](https://github.com/jubair-jx/jubair-jx/blob/main/aboutme.gif)
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubair-jx&label=Profile%20views&color=0e75b6&style=flat" alt="jubair-jx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubair-jx" alt="jubair-jx" /></a> </p>
