@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi There 👋, This is Mohammad Jubair</h1>
-<h3 align="center">Hey✌️ ! This is Mohammad Jubair. As an enthusiastic Web Developer, My goal is to collaborate with a talented team that values continuous learning and embraces cutting-edge technologies. I can utilize my technical skills, creativity, and passion for software development. With a strong foundation in the MERN stack and two years of professional experience,</h3>
+<h3 align="center">Hey✌️ ! This is Mohammad Jubair. a passionate and driven Full Stack Web Developer from Chattogram, Bangladesh. With over 2 years of hands-on experience in web development and software development, I specialize in building dynamic and responsive web applications using cutting-edge technologies.,</h3>
 
 
 ![About Me](https://github.com/jubair-jx/jubair-jx/blob/main/aboutme.gif)
